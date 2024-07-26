@@ -1,0 +1,12 @@
+{
+  "Crime": 3,
+  "Drama": 5,
+  "Thriller": 3,
+  "Documentary": 4,
+  "Family": 1,
+  "History": 2,
+  "War": 1,
+  "Animation": 1,
+  "Action": 1,
+  "Adventure": 1
+}

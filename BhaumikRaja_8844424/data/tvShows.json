@@ -1,0 +1,104 @@
+[
+  {
+    "title": "Breaking Bad",
+    "rating": 9.5,
+    "voteCount": 0,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYmQ4YWMxYjUtNjZmYi00MDQ1LWFjMjMtNjA5ZDdiYjdiODU5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_QL75_UX380_CR0,1,380,562_.jpg"
+  },
+  {
+    "title": "Planet Earth II",
+    "rating": 9.5,
+    "voteCount": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMGZmYmQ5NGQtNWQ1MC00NWZlLTg0MjYtYjJjMzQ5ODgxYzRkXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_QL75_UX380_CR0,1,380,562_.jpg"
+  },
+  {
+    "title": "Planet Earth",
+    "rating": 9.4,
+    "voteCount": 0,
+    "genres": [
+      "Documentary",
+      "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzMyYjg0MGMtMTlkMy00OGFiLWFiNTYtYmFmZWNmMDFlMzkwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_QL75_UX380_CR0,1,380,562_.jpg"
+  },
+  {
+    "title": "Band of Brothers",
+    "rating": 9.4,
+    "voteCount": 0,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI3ODc2ODc0M15BMl5BanBnXkFtZTYwMjgzNjc3._V1_QL75_UX380_CR0,1,380,562_.jpg"
+  },
+  {
+    "title": "Chernobyl",
+    "rating": 9.3,
+    "voteCount": 0,
+    "genres": [
+      "Drama",
+      "History",
+      "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTdkN2QwMDItMDVhNS00ZjFiLWEzNTctMzY5ODQzYWNkMDllXkEyXkFqcGdeQXVyMTMzNDExODE5._V1_QL75_UX380_CR0,1,380,562_.jpg"
+  },
+  {
+    "title": "The Wire",
+    "rating": 9.3,
+    "voteCount": 0,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZmY5ZDMxODEtNWIwOS00NjdkLTkyMjktNWRjMDhmYjJjN2RmXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UX380_CR0,1,380,562_.jpg"
+  },
+  {
+    "title": "Avatar: The Last Airbender",
+    "rating": 9.3,
+    "voteCount": 0,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODc5YTBhMTItMjhkNi00ZTIxLWI0YjAtNTZmOTY0YjRlZGQ0XkEyXkFqcGdeQXVyODUwNjEzMzg@._V1_QL75_UX380_CR0,1,380,562_.jpg"
+  },
+  {
+    "title": "Blue Planet II",
+    "rating": 9.3,
+    "voteCount": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDZiNDllMTAtOTgxZi00NzNiLWFhNzUtOGUwZWZjZGNjZTMyXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_QL75_UX380_CR0,1,380,562_.jpg"
+  },
+  {
+    "title": "The Sopranos",
+    "rating": 9.2,
+    "voteCount": 0,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNmU3MjkzZWQtOTk1Ni00OTNiLWJhMmMtNmEyN2JjZjUzZDUyXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_QL75_UX380_CR0,1,380,562_.jpg"
+  },
+  {
+    "title": "Cosmos: A Spacetime Odyssey",
+    "rating": 9.3,
+    "voteCount": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTk5OTQyZjYtMDk3Yy00YjhmLWE2MTYtZmY4NTg1YWUzZTQ0XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UX380_CR0,1,380,562_.jpg"
+  }
+]
